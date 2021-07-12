@@ -1,0 +1,4 @@
+1. Broad
+2. More thourough way of finding buges but takes alot longer to complete
+3.Casts a wider net to find bugs however there is a chance that bugs slip through the gaps
+https://trello.com/b/uP2mfXs6
